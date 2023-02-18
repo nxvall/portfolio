@@ -1,0 +1,10 @@
+/node_modules
+/.pnp
+.pnp.js
+/.vscode
+/.next
+/out/
+/build
+yarn-debug.log*
+yarn-error.log*
+.env
